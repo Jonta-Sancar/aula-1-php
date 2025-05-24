@@ -62,6 +62,8 @@ echo $pessoa['endereco'][0];
 
 echo "<br><br>";
 
+
+
 /*
  Zerrai Mundo nasceu em <data>, mora no bairro tal, na rua tal, N° x
 */
