@@ -77,6 +77,11 @@ echo $mensagem;
 
 
 
+// const NOME = "valor";
+
+define('NOME', 'valor');
+
+echo NOME;
 
 
-
+// imprimirHelloWorld()
